@@ -42,4 +42,4 @@ This work was based on prior projects:
 
 [f-u-z-z-l-e/docker-nfs-server](https://github.com/f-u-z-z-l-e/docker-nfs-server)
 
-[sjiveson/nfs-server-alpine](https://github.com/sjiveson/nfs-server-alpine))
+[sjiveson/nfs-server-alpine](https://github.com/sjiveson/nfs-server-alpine)
