@@ -1,6 +1,6 @@
 FROM debian:bullseye
 LABEL "maintainer"="raparkhurst@digitalsynapse.io"
-LABEL source "https://github.com/sjiveson/nfs-server-alpine"
+LABEL source "https://github.com/raparkhurst/docker-nfsv2-container"
 LABEL branch "main"
 
 RUN apt-get update && \
